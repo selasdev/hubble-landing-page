@@ -1,2 +1,3 @@
 # hubble-landing-page
-A challengre for Frontend Mentor
+
+A challenge for Frontend Mentor
